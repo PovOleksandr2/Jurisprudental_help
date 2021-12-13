@@ -1,0 +1,8 @@
+com\example\serviceapplications\service\ApplicationService.class
+com\example\serviceapplications\api\dto\User.class
+com\example\serviceapplications\ServiceApplicationsApplication.class
+com\example\serviceapplications\api\dto\Thread.class
+com\example\serviceapplications\repo\ApplicationRepo.class
+com\example\serviceapplications\repo\model\Application.class
+com\example\serviceapplications\api\dto\Application.class
+com\example\serviceapplications\api\ApplicationController.class
