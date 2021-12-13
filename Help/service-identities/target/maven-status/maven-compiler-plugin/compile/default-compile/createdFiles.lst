@@ -1,0 +1,6 @@
+com\help\serviceidentities\api\UserController.class
+com\help\serviceidentities\ServiceIdentitiesApplication.class
+com\help\serviceidentities\service\UserService.class
+com\help\serviceidentities\repo\model\User.class
+com\help\serviceidentities\repo\UserRepo.class
+com\help\serviceidentities\api\dto\User.class
